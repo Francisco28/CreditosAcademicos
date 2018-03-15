@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/a424fdc252ac4d27541c4ce56f0c8974/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/425e936dd5e7122f8426e3cf61ccd406/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/francisco/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8369425c02a454cc202cde23e82c7bdc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e84a9a237d0c14c607114a270b065984/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/75b1266b8ae55d27db1e914305d1be6e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/68147abde998562e3bda765f5cd00762/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/631856c552d9d6fe5066c163809795ba/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/39b5089eeda3a7a97fb2b1f20f084432/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/4d27377a5de8e57fd0d3b10b98d72799/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/bb01426da436a5ec428295fdce54324b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/96589de458932e62d9541e1bfbacf963/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f07ee754fb58f8767b7a32e75535e557/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d7ae222a0b3a0e4d683d933fa28cfbf9/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:3:5-60
+		INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:4:22-77
+application
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/a424fdc252ac4d27541c4ce56f0c8974/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/a424fdc252ac4d27541c4ce56f0c8974/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/425e936dd5e7122f8426e3cf61ccd406/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/425e936dd5e7122f8426e3cf61ccd406/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/francisco/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8369425c02a454cc202cde23e82c7bdc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/francisco/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8369425c02a454cc202cde23e82c7bdc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e84a9a237d0c14c607114a270b065984/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e84a9a237d0c14c607114a270b065984/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/75b1266b8ae55d27db1e914305d1be6e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/75b1266b8ae55d27db1e914305d1be6e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/631856c552d9d6fe5066c163809795ba/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/631856c552d9d6fe5066c163809795ba/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/39b5089eeda3a7a97fb2b1f20f084432/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/39b5089eeda3a7a97fb2b1f20f084432/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/4d27377a5de8e57fd0d3b10b98d72799/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/4d27377a5de8e57fd0d3b10b98d72799/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/bb01426da436a5ec428295fdce54324b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/bb01426da436a5ec428295fdce54324b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/96589de458932e62d9541e1bfbacf963/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/96589de458932e62d9541e1bfbacf963/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f07ee754fb58f8767b7a32e75535e557/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f07ee754fb58f8767b7a32e75535e557/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d7ae222a0b3a0e4d683d933fa28cfbf9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d7ae222a0b3a0e4d683d933fa28cfbf9/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:12:9-40
+activity#mx.edu.ittepic.carlos.p2_creditos_academicos2.MainActivity
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:17:27-74
+activity#mx.edu.ittepic.carlos.p2_creditos_academicos2.Actividades
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:20:9-49
+	android:name
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:20:19-46
+activity#mx.edu.ittepic.carlos.p2_creditos_academicos2.Editar_alumno
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:21:19-48
+activity#mx.edu.ittepic.carlos.p2_creditos_academicos2.Editar_actividad
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:22:19-51
+activity#mx.edu.ittepic.carlos.p2_creditos_academicos2.Nuevo_Alumno
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:23:19-47
+activity#mx.edu.ittepic.carlos.p2_creditos_academicos2.Nueva_Actividad
+ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:24:9-62
+	android:name
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml:24:19-50
+uses-sdk
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/a424fdc252ac4d27541c4ce56f0c8974/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/a424fdc252ac4d27541c4ce56f0c8974/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/425e936dd5e7122f8426e3cf61ccd406/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/425e936dd5e7122f8426e3cf61ccd406/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/francisco/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8369425c02a454cc202cde23e82c7bdc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/francisco/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8369425c02a454cc202cde23e82c7bdc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e84a9a237d0c14c607114a270b065984/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e84a9a237d0c14c607114a270b065984/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/75b1266b8ae55d27db1e914305d1be6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/75b1266b8ae55d27db1e914305d1be6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/68147abde998562e3bda765f5cd00762/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/68147abde998562e3bda765f5cd00762/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/631856c552d9d6fe5066c163809795ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/631856c552d9d6fe5066c163809795ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/39b5089eeda3a7a97fb2b1f20f084432/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/39b5089eeda3a7a97fb2b1f20f084432/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/4d27377a5de8e57fd0d3b10b98d72799/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/4d27377a5de8e57fd0d3b10b98d72799/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/bb01426da436a5ec428295fdce54324b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/bb01426da436a5ec428295fdce54324b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/96589de458932e62d9541e1bfbacf963/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/96589de458932e62d9541e1bfbacf963/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f07ee754fb58f8767b7a32e75535e557/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f07ee754fb58f8767b7a32e75535e557/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d7ae222a0b3a0e4d683d933fa28cfbf9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d7ae222a0b3a0e4d683d933fa28cfbf9/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/a424fdc252ac4d27541c4ce56f0c8974/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+		ADDED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/a424fdc252ac4d27541c4ce56f0c8974/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/425e936dd5e7122f8426e3cf61ccd406/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/425e936dd5e7122f8426e3cf61ccd406/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e84a9a237d0c14c607114a270b065984/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e84a9a237d0c14c607114a270b065984/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/75b1266b8ae55d27db1e914305d1be6e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/75b1266b8ae55d27db1e914305d1be6e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/68147abde998562e3bda765f5cd00762/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/68147abde998562e3bda765f5cd00762/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/631856c552d9d6fe5066c163809795ba/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/631856c552d9d6fe5066c163809795ba/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/39b5089eeda3a7a97fb2b1f20f084432/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/39b5089eeda3a7a97fb2b1f20f084432/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/4d27377a5de8e57fd0d3b10b98d72799/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/4d27377a5de8e57fd0d3b10b98d72799/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/bb01426da436a5ec428295fdce54324b/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/bb01426da436a5ec428295fdce54324b/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/96589de458932e62d9541e1bfbacf963/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/96589de458932e62d9541e1bfbacf963/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f07ee754fb58f8767b7a32e75535e557/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f07ee754fb58f8767b7a32e75535e557/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d7ae222a0b3a0e4d683d933fa28cfbf9/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d7ae222a0b3a0e4d683d933fa28cfbf9/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/a424fdc252ac4d27541c4ce56f0c8974/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/francisco/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/a424fdc252ac4d27541c4ce56f0c8974/AndroidManifest.xml:26:9-47

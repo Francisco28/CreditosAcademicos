@@ -1,0 +1,4 @@
+#Tue Mar 13 22:40:44 MST 2018
+base.0=/home/francisco/Documentos/Tec/Desarrollo de aplicaciones moviles/Francisco/P2_Creditos_Academicos2/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

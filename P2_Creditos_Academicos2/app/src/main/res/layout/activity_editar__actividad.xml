@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="DATOS DE LA ACTIVIDAD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mensaje"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="82dp"
+        android:textColor="?android:attr/colorActivatedHighlight"
+        android:textAlignment="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_margin="6dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:ems="10"
+        android:id="@+id/edit_actividad"
+        android:hint="Nombre Actividad"
+        android:layout_marginTop="24dp"
+        android:layout_below="@+id/mensaje"
+        android:layout_alignLeft="@+id/mensaje"
+        android:layout_alignStart="@+id/mensaje"
+        android:layout_alignRight="@+id/mensaje"
+        android:layout_alignEnd="@+id/mensaje" />
+    <Button
+        android:text="Fecha de Inicio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_fechainicio"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:elevation="0dp"
+        style="@style/Widget.AppCompat.Button"
+        android:onClick="onClick (MainActivity)"
+        android:layout_below="@+id/edit_actividad"
+        android:layout_alignLeft="@+id/edit_actividad"
+        android:layout_alignStart="@+id/edit_actividad"
+        android:layout_marginTop="19dp"
+        android:layout_alignRight="@+id/edit_actividad"
+        android:layout_alignEnd="@+id/edit_actividad" />
+
+    <Button
+        android:text="Fecha de Finalizacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_fechafinal"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:elevation="0dp"
+        style="@style/Widget.AppCompat.Button"
+        android:onClick="onClick (MainActivity)"
+        android:layout_marginTop="29dp"
+        android:layout_below="@+id/btn_fechainicio"
+        android:layout_alignLeft="@+id/btn_fechainicio"
+        android:layout_alignStart="@+id/btn_fechainicio" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/edit_creditos"
+        android:hint="Creditos"
+        android:layout_below="@+id/btn_fechafinal"
+        android:layout_alignLeft="@+id/btn_fechafinal"
+        android:layout_alignStart="@+id/btn_fechafinal"
+        android:layout_marginTop="38dp" />
+
+    <ImageButton
+        android:id="@+id/btn_guardar"
+        style="@android:style/Widget.Holo.Light.ImageButton"
+        android:layout_width="100dp"
+        android:layout_height="90dp"
+        android:scaleType="centerInside"
+        app:srcCompat="@drawable/ic_save_black_48dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="11dp" />
+
+</RelativeLayout>
